@@ -1,0 +1,11 @@
+Hund, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8l39ID652idYp_PNfTPKEwNA0hQjc0ZKFg&usqp=CAU;
+Katze, https://www.sunshine.it/wp-content/uploads/2019/03/top-10-funny-cat-videos-funny-ca.jpg;
+Affe, https://www.postcardfinder.co.uk/ekmps/shops/c8ed37/images/funny-face-monkey-witzigger-affe-ape-comic-german-animal-postcard-131351-p.jpg;
+Faultier, https://i.pinimg.com/564x/f0/3a/34/f03a349219e07c262f961a9afefb9a66.jpg;
+Pferd, https://media.istockphoto.com/photos/laughing-horse-picture-id1160791767?k=20&m=1160791767&s=170667a&w=0&h=KBZR7FdbOQuoWxGn4K8M9Da2kR54bDJGra6KUgelVco=;
+Faultier, https://i.pinimg.com/564x/f0/3a/34/f03a349219e07c262f961a9afefb9a66.jpg;
+Pferd, https://media.istockphoto.com/photos/laughing-horse-picture-id1160791767?k=20&m=1160791767&s=170667a&w=0&h=KBZR7FdbOQuoWxGn4K8M9Da2kR54bDJGra6KUgelVco=;
+Katze, https://www.sunshine.it/wp-content/uploads/2019/03/top-10-funny-cat-videos-funny-ca.jpg;
+
+Richtig: 2
+Anzahl: 2
